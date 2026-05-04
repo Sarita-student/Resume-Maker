@@ -1,4 +1,4 @@
-import { useState, useRef } from "react";
+import React from "react";
 
 const STEPS = [
   { id: "personal",       label: "Heading",      icon: "1" },

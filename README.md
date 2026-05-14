@@ -1,6 +1,6 @@
 live link - https://resume-maker-two-mocha.vercel.app/
 
-reference link - https://github.com/Sarita-student/Resume-Maker
+reference link - https://roadmap.sh/projects/single-page-cv
 
 # Getting Started with Create React App
 
